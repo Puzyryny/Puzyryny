@@ -17,6 +17,9 @@ My journey in IT began with an internship in the "Linux Administration" course b
      <a href="https://t.me/puzyryn" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
+    <a href="https://www.facebook.com/puzyryn/" target="_blank">
+      <img src="https://github.com/Puzyryny/Puzyryny/assets/138977092/1cac8ad7-3969-4196-8991-cbd53c17ac51" width="40" height="40" alt="telegram group" />
+    </a>
 
   
    

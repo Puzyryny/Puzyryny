@@ -1,5 +1,3 @@
-# Hi, I'm Dmitry!
-
 ---
 
 ### :man_technologist: About:

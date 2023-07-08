@@ -2,28 +2,9 @@
 
 ### :man_technologist: About
 
-I'm a Backend Developer. My main specialization is C++.
+Hi, I'm Dmitry and I'm a Backend Developer. My main specialization is C++.
 
 My journey in IT began with an internship in the "Linux Administration" course by IBA Group, where I underwent intensive training. After completing the internship, I spent a couple of months exploring various areas in IT, but backend development caught my attention the most. Currently, I am self-learning and actively searching for job opportunities. In addition, I assist newcomers in mastering backend development, contributing to the developer community.
-
----
-
-### 🤝 Socials
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/puzyrin/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-     <a href="https://t.me/puzyryn" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href="https://www.facebook.com/puzyryn/" target="_blank">
-      <img src="https://github.com/Puzyryny/Puzyryny/assets/138977092/1cac8ad7-3969-4196-8991-cbd53c17ac51" width="40" height="40" alt="telegram group" />
-    </a>
-
-  
-   
-  </div>
 
 ---
 

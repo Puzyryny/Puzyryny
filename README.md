@@ -1,6 +1,6 @@
 ---
 
-### :man_technologist: About:
+### :man_technologist: About
 
 I'm a Backend Developer. My main specialization is C++.
 
@@ -8,7 +8,7 @@ My journey in IT began with an internship in the "Linux Administration" course b
 
 ---
 
-### 🤝 Socials:
+### 🤝 Socials
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/puzyrin/" target="_blank">
@@ -27,7 +27,7 @@ My journey in IT began with an internship in the "Linux Administration" course b
 
 ---
 
-### 💻 Technologies:
+### 💻 Technologies
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -39,12 +39,6 @@ My journey in IT began with an internship in the "Linux Administration" course b
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="py" alt="py" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="sql" alt="sql" width="40" height="40"/>&nbsp
-  
-  
-
- 
-
-  
 </div>
 
 
@@ -52,7 +46,7 @@ My journey in IT began with an internship in the "Linux Administration" course b
 
 
 
-### Codewars:
+### Codewars
 
 ![codewars](https://www.codewars.com/users/Puzyriny/badges/large)
 

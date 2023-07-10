@@ -2,7 +2,7 @@
 
 ### :man_technologist: About
 
-Hi, I'm Dmitry and I'm a Backend Developer. My main specialization is C++.
+Hi, I'm Dmitry and I'm a Backend Developer.
 
 My journey in IT began with an internship in the "Linux Administration" course by IBA Group, where I underwent intensive training. After completing the internship, I spent a couple of months exploring various areas in IT, but backend development caught my attention the most. Currently, I am self-learning and actively searching for job opportunities. In addition, I assist newcomers in mastering backend development, contributing to the developer community.
 

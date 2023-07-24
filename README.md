@@ -21,9 +21,3 @@ My journey in IT began with an internship in the "Linux Administration" course b
 
 
 ---
-
-
-
-### Codewars
-
-![codewars](https://www.codewars.com/users/Puzyriny/badges/large)
